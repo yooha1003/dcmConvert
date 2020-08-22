@@ -11,7 +11,7 @@
 
 ## Requirements
 ### &nbsp;&nbsp;&nbsp;_dcm2niix_
-&nbsp;&nbsp;&nbsp;Please refer this [_website_](https://chromedriver.chromium.org/)
+&nbsp;&nbsp;&nbsp;Please refer this [_website_](https://github.com/rordenlab/dcm2niix)
 &nbsp;&nbsp;&nbsp;&nbsp;
 ### &nbsp;&nbsp;&nbsp;_Modules_
 &nbsp;&nbsp;&nbsp;&nbsp;
