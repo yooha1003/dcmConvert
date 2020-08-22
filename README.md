@@ -38,10 +38,14 @@ python dcmConvert.py --help
 
 ## Outputs
 + Final nifti files
+<br>
 ![](assets/README-d54d5362.png)
+</br>
 
 + Intermediate nifti files
+<br>
 ![](assets/README-93c582f3.png)
+</br>
 
 ## Version history
 + Version 0.1.0 : The script release (2020.08.22)
