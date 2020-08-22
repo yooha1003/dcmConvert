@@ -38,11 +38,9 @@ python dcmConvert.py --help
 
 ## Outputs
 + Final nifti files
-<br>
 ![](assets/README-d54d5362.png)
 
 + Intermediate nifti files
-<br>
 ![](assets/README-93c582f3.png)
 
 ## Version history
